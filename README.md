@@ -1,0 +1,1 @@
+This is my first android app. It just displays a random number.
